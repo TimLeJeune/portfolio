@@ -1,0 +1,1601 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,700,900,300|Open+Sans:400,700|Roboto+Slab:700,400');
+
+@font-face {
+                          font-family: "FontAwesome5BrandsRegular";
+                          src: url('../fonts/Font Awesome 5 Brands-Regular-400.otf') format("opentype");
+                        }
+                        @font-face {
+                          font-family: "FontAwesome5FreeSolid";
+                          src: url('../fonts/Font Awesome 5 Free-Solid-900.otf') format("opentype");
+                        }
+                        
+.ubicompdp {
+  width               : 100%;
+  min-width           : 1272px;
+  height              : 100vh;
+  min-height          : 3098px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color    : rgba(243, 243, 243, 1.0);
+}
+a {
+  text-decoration     : none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.anima-full-width-a {
+  width               : 100%;
+}
+.anima-full-height-a {
+  height              : 100%;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.ubicompdp .overlayyellow {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : -99px;
+  height              : 1752px;
+  width               : 1466px;
+  position            : absolute;
+  margin              : 0;
+  left                : -99px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ubicompdp .rectangle {
+  background-color    : rgba(243, 243, 243, 1.0);
+  top                 : 484px;
+  height              : 1556px;
+  width               : 873px;
+  position            : absolute;
+  margin              : 0;
+  left                : 338px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ubicompdp .iotdevice {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1222px;
+  height              : 253px;
+  width               : 129px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1042px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ubicompdp .group4 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 365px;
+  height              : 376px;
+  width               : 241px;
+  position            : absolute;
+  margin              : 0;
+  left                : 88px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ubicompdp .group4 .group2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 58px;
+  width               : 217px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ubicompdp .group4 .group2 .vak {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 140px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto Slab", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 20.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 26.0px;
+}
+.ubicompdp .group4 .group2 .projectvisual {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 37px;
+  height              : auto;
+  width               : 216px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto Slab", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 21.0px;
+}
+.ubicompdp .group4 .group {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 92px;
+  height              : 58px;
+  width               : 217px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ubicompdp .group4 .group .leerjaar2blok1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 37px;
+  height              : auto;
+  width               : 216px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto Slab", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 21.0px;
+}
+.ubicompdp .group4 .group .periode {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 140px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto Slab", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 20.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 26.0px;
+}
+.ubicompdp .group4 .group1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 184px;
+  height              : 58px;
+  width               : 217px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ubicompdp .group4 .group1 .developmentconcept {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 37px;
+  height              : auto;
+  width               : 216px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto Slab", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 21.0px;
+}
+.ubicompdp .group4 .group1 .categorie {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 140px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto Slab", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 20.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 26.0px;
+}
+.ubicompdp .group4 .group31 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 276px;
+  height              : 100px;
+  width               : 241px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ubicompdp .group4 .group31 .arduino {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 37px;
+  height              : auto;
+  width               : 242px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto Slab", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 21.0px;
+}
+.ubicompdp .group4 .group31 .tools {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 140px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto Slab", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 20.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 26.0px;
+}
+.ubicompdp .hetvakubicompgaf {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 173px;
+  height              : auto;
+  width               : 777px;
+  position            : absolute;
+  margin              : 0;
+  left                : 364px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 21.0px;
+}
+.ubicompdp .ubicomp {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 84px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 364px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto Slab", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 33.33px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 44.0px;
+}
+.ubicompdp .group3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 575px;
+  height              : 434px;
+  width               : 838px;
+  position            : absolute;
+  margin              : 0;
+  left                : 364px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ubicompdp .group3 .group5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 185px;
+  width               : 392px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ubicompdp .group3 .group5 .hetkoptelefoonicoo {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 52px;
+  height              : auto;
+  width               : 392px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.0px;
+  line-height         : 19.0px;
+}
+.ubicompdp .group3 .group5 .aufb00ordance {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.0px;
+  line-height         : 19.0px;
+}
+.ubicompdp .group3 .group7 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 139px;
+  width               : 383px;
+  position            : absolute;
+  margin              : 0;
+  left                : 455px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ubicompdp .group3 .group7 .hetvolumeheeftinv {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 51px;
+  height              : auto;
+  width               : 383px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Open Sans", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.0px;
+  line-height         : 22.0px;
+}
+.ubicompdp .group3 .group7 .mapping {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Open Sans", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.0px;
+  line-height         : 22.0px;
+}
+.ubicompdp .group3 .deledbarenhetkop {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 324px;
+  height              : auto;
+  width               : 392px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Open Sans", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 22.0px;
+}
+.ubicompdp .group3 .deledbarenhetkop .span1 {
+  
+}
+.ubicompdp .group3 .deledbarenhetkop .span2 {
+  letter-spacing      : -0.01px;
+}
+.ubicompdp .group3 .deledbarenhetkop .span3 {
+  letter-spacing      : -0.01px;
+}
+.ubicompdp .group3 .deledbarenhetkop .span4 {
+  
+}
+.ubicompdp .group3 .deledbarenhetkop .span5 {
+  letter-spacing      : -0.01px;
+}
+.ubicompdp .group3 .deledbarenhetkop .span6 {
+  letter-spacing      : 0.01px;
+}
+.ubicompdp .group3 .deledbarenhetkop .span7 {
+  letter-spacing      : -0.01px;
+}
+.ubicompdp .group3 .deledbarenhetkop .span8 {
+  
+}
+.ubicompdp .group3 .deledbarenhetkop .span9 {
+  letter-spacing      : -0.01px;
+}
+.ubicompdp .group3 .deledbarenhetkop .span10 {
+  
+}
+.ubicompdp .group3 .deledbarenhetkop .span11 {
+  letter-spacing      : -0.01px;
+}
+.ubicompdp .group3 .deledbarenhetkop .span12 {
+  letter-spacing      : -1.19px;
+}
+.ubicompdp .group3 .deledbarenhetkop .span13 {
+  
+}
+.ubicompdp .group3 .deledbarenhetkop .span14 {
+  letter-spacing      : -0.01px;
+}
+.ubicompdp .group3 .deledbarenhetkop .span15 {
+  
+}
+.ubicompdp .group3 .deledbarenhetkop .span16 {
+  letter-spacing      : -0.01px;
+}
+.ubicompdp .group3 .deledbarenhetkop .span17 {
+  
+}
+.ubicompdp .group3 .deledbarenhetkop .span18 {
+  letter-spacing      : -0.01px;
+}
+.ubicompdp .group3 .deledbarenhetkop .span19 {
+  
+}
+.ubicompdp .group3 .deledbarenhetkop .span20 {
+  letter-spacing      : -0.01px;
+}
+.ubicompdp .group3 .deledbarenhetkop .span21 {
+  letter-spacing      : -0.01px;
+}
+.ubicompdp .group3 .deledbarenhetkop .span22 {
+  letter-spacing      : -0.01px;
+}
+.ubicompdp .group3 .deledbarenhetkop .span23 {
+  
+}
+.ubicompdp .group3 .deledbarenhetkop .span24 {
+  letter-spacing      : 0.01px;
+}
+.ubicompdp .group3 .deledbarenhetkop .span25 {
+  letter-spacing      : -0.01px;
+}
+.ubicompdp .group3 .deledbarenhetkop .span26 {
+  
+}
+.ubicompdp .group3 .deledbarenhetkop .span27 {
+  letter-spacing      : -0.01px;
+}
+.ubicompdp .group3 .deledbarenhetkop .span28 {
+  letter-spacing      : -0.01px;
+}
+.ubicompdp .group3 .deledbarenhetkop .span29 {
+  letter-spacing      : 0.01px;
+}
+.ubicompdp .group3 .deledbarenhetkop .span30 {
+  letter-spacing      : -0.01px;
+}
+.ubicompdp .group3 .deledbarenhetkop .span31 {
+  
+}
+.ubicompdp .group3 .deledbarenhetkop .span32 {
+  letter-spacing      : -0.01px;
+}
+.ubicompdp .group3 .deledbarenhetkop .span33 {
+  
+}
+.ubicompdp .group3 .deledbarenhetkop .span34 {
+  letter-spacing      : -1.19px;
+}
+.ubicompdp .group3 .deledbarenhetkop .span35 {
+  
+}
+.ubicompdp .group3 .deledbarenhetkop .span36 {
+  letter-spacing      : 0.01px;
+}
+.ubicompdp .group3 .deledbarenhetkop .span37 {
+  letter-spacing      : -0.01px;
+}
+.ubicompdp .group3 .deledbarenhetkop .span38 {
+  
+}
+.ubicompdp .group3 .deledbarenhetkop .span39 {
+  letter-spacing      : -0.01px;
+}
+.ubicompdp .group3 .deledbarenhetkop .span40 {
+  letter-spacing      : 0.01px;
+}
+.ubicompdp .group3 .deledbarenhetkop .span41 {
+  letter-spacing      : -0.01px;
+}
+.ubicompdp .group3 .deledbarenhetkop .span42 {
+  letter-spacing      : -1.19px;
+}
+.ubicompdp .group3 .deledbarenhetkop .span43 {
+  letter-spacing      : 0.01px;
+}
+.ubicompdp .group3 .deledbarenhetkop .span44 {
+  letter-spacing      : -0.01px;
+}
+.ubicompdp .group3 .deledbarenhetkop .span45 {
+  
+}
+.ubicompdp .group3 .deledbarenhetkop .span46 {
+  letter-spacing      : 0.01px;
+}
+.ubicompdp .group3 .deledbarenhetkop .span47 {
+  letter-spacing      : -0.01px;
+}
+.ubicompdp .group3 .deledbarenhetkop .span48 {
+  
+}
+.ubicompdp .group3 .deledbarenhetkop .span49 {
+  letter-spacing      : -0.01px;
+}
+.ubicompdp .group3 .deledbarenhetkop .span50 {
+  letter-spacing      : -0.01px;
+}
+.ubicompdp .group3 .deledbarenhetkop .span51 {
+  
+}
+.ubicompdp .group3 .deledbarenhetkop .span52 {
+  letter-spacing      : -0.01px;
+}
+.ubicompdp .group3 .deledbarenhetkop .span53 {
+  letter-spacing      : 0.01px;
+}
+.ubicompdp .group3 .deledbarenhetkop .span54 {
+  letter-spacing      : -0.01px;
+}
+.ubicompdp .group3 .deledbarenhetkop .span55 {
+  
+}
+.ubicompdp .group3 .deledbarenhetkop .span56 {
+  letter-spacing      : -0.01px;
+}
+.ubicompdp .group3 .deledbarenhetkop .span57 {
+  
+}
+.ubicompdp .group3 .deledbarenhetkop .span58 {
+  letter-spacing      : -0.01px;
+}
+.ubicompdp .group3 .deledbarenhetkop .span59 {
+  letter-spacing      : -0.01px;
+}
+.ubicompdp .group3 .deledbarenhetkop .span60 {
+  letter-spacing      : -0.01px;
+}
+.ubicompdp .group3 .deledbarenhetkop .span61 {
+  letter-spacing      : -0.01px;
+}
+.ubicompdp .group3 .deledbarenhetkop .span62 {
+  letter-spacing      : -1.18px;
+}
+.ubicompdp .group3 .deledbarenhetkop .span63 {
+  
+}
+.ubicompdp .group3 .deledbarenhetkop .span64 {
+  letter-spacing      : -0.01px;
+}
+.ubicompdp .group3 .deledbarenhetkop .span65 {
+  letter-spacing      : -0.01px;
+}
+.ubicompdp .group3 .deledbarenhetkop .span66 {
+  letter-spacing      : -0.01px;
+}
+.ubicompdp .group3 .deledbarenhetkop .span67 {
+  letter-spacing      : -0.01px;
+}
+.ubicompdp .group3 .deledbarenhetkop .span68 {
+  letter-spacing      : 0.01px;
+}
+.ubicompdp .group3 .deledbarenhetkop .span69 {
+  letter-spacing      : -0.01px;
+}
+.ubicompdp .group3 .deledbarenhetkop .span70 {
+  
+}
+.ubicompdp .group3 .deledbarenhetkop .span71 {
+  letter-spacing      : -0.01px;
+}
+.ubicompdp .group3 .deledbarenhetkop .span72 {
+  
+}
+.ubicompdp .group3 .constraintsbeperki {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 268px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 442px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Open Sans", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.0px;
+  line-height         : 22.0px;
+}
+.ubicompdp .group3 .hetontwerpheeftma {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 324px;
+  height              : auto;
+  width               : 396px;
+  position            : absolute;
+  margin              : 0;
+  left                : 442px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Open Sans", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.0px;
+  line-height         : 22.0px;
+}
+.ubicompdp .group3 .visibility {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 268px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Open Sans", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.0px;
+  line-height         : 22.0px;
+}
+.ubicompdp .idealesituatiesche {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 504px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 364px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto Slab", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 20.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.0px;
+  line-height         : 26.0px;
+}
+.ubicompdp .loudnesssensorsensor {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1270px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 773px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : right;
+  line-height         : 19.0px;
+}
+.ubicompdp .loudnesssensorsensor .span1 {
+  
+}
+.ubicompdp .loudnesssensorsensor .span2 {
+  letter-spacing      : -0.01px;
+}
+.ubicompdp .loudnesssensorsensor .span3 {
+  
+}
+.ubicompdp .loudnesssensorsensor .span4 {
+  letter-spacing      : 0.01px;
+}
+.ubicompdp .loudnesssensorsensor .span5 {
+  letter-spacing      : -0.01px;
+}
+.ubicompdp .loudnesssensorsensor .span6 {
+  letter-spacing      : 0.01px;
+}
+.ubicompdp .loudnesssensorsensor .span7 {
+  
+}
+.ubicompdp .loudnesssensorsensor .span8 {
+  letter-spacing      : -0.01px;
+}
+.ubicompdp .loudnesssensorsensor .span9 {
+  letter-spacing      : 0.01px;
+}
+.ubicompdp .loudnesssensorsensor .span10 {
+  
+}
+.ubicompdp .loudnesssensorsensor .span11 {
+  letter-spacing      : 0.01px;
+}
+.ubicompdp .loudnesssensorsensor .span12 {
+  letter-spacing      : -0.01px;
+}
+.ubicompdp .loudnesssensorsensor .span13 {
+  letter-spacing      : -0.01px;
+}
+.ubicompdp .loudnesssensorsensor .span14 {
+  letter-spacing      : -0.01px;
+}
+.ubicompdp .loudnesssensorsensor .span15 {
+  
+}
+.ubicompdp .loudnesssensorsensor .span16 {
+  letter-spacing      : -0.01px;
+}
+.ubicompdp .loudnesssensorsensor .span17 {
+  letter-spacing      : 0.01px;
+}
+.ubicompdp .loudnesssensorsensor .span18 {
+  
+}
+.ubicompdp .loudnesssensorsensor .span19 {
+  letter-spacing      : 0.01px;
+}
+.ubicompdp .loudnesssensorsensor .span20 {
+  
+}
+.ubicompdp .ledbaractuator {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1320px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 832px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : right;
+  line-height         : 19.0px;
+}
+.ubicompdp .ledbaractuator .span1 {
+  
+}
+.ubicompdp .ledbaractuator .span2 {
+  letter-spacing      : 0.01px;
+}
+.ubicompdp .ledbaractuator .span3 {
+  
+}
+.ubicompdp .ledbaractuator .span4 {
+  letter-spacing      : -0.01px;
+}
+.ubicompdp .ledbaractuator .span5 {
+  letter-spacing      : 0.01px;
+}
+.ubicompdp .ledbaractuator .span6 {
+  letter-spacing      : -0.01px;
+}
+.ubicompdp .ledbaractuator .span7 {
+  letter-spacing      : -0.01px;
+}
+.ubicompdp .ledbaractuator .span8 {
+  letter-spacing      : -0.01px;
+}
+.ubicompdp .ledbaractuator .span9 {
+  letter-spacing      : 0.01px;
+}
+.ubicompdp .ledbaractuator .span10 {
+  
+}
+.ubicompdp .ledbaractuator .span11 {
+  letter-spacing      : -0.01px;
+}
+.ubicompdp .ledbaractuator .span12 {
+  letter-spacing      : 0.01px;
+}
+.ubicompdp .ledbaractuator .span13 {
+  
+}
+.ubicompdp .ledbaractuator .span14 {
+  letter-spacing      : 0.01px;
+}
+.ubicompdp .ledbaractuator .span15 {
+  
+}
+.ubicompdp .singleledactuator {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1369px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 808px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : right;
+  letter-spacing      : -0.0px;
+  line-height         : 19.0px;
+}
+.ubicompdp .group9 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1191px;
+  height              : 104px;
+  width               : 642px;
+  position            : absolute;
+  margin              : 0;
+  left                : 364px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ubicompdp .group9 .oval {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 76px;
+  height              : 28px;
+  width               : 28px;
+  position            : absolute;
+  margin              : 0;
+  left                : 614px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ubicompdp .group9 .a1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 79px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 621px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 900;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : right;
+  letter-spacing      : -0.0px;
+  line-height         : 19.0px;
+}
+.ubicompdp .group9 .oval1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 28px;
+  width               : 28px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ubicompdp .group9 .a11 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 3px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 7px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 900;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : right;
+  letter-spacing      : -0.0px;
+  line-height         : 19.0px;
+}
+.ubicompdp .group91 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1461px;
+  height              : 28px;
+  width               : 28px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1021px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ubicompdp .group91 .oval {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 28px;
+  width               : 28px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ubicompdp .group91 .a1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 3px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 7px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 900;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : right;
+  letter-spacing      : -0.0px;
+  line-height         : 19.0px;
+}
+.ubicompdp .group8 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1316px;
+  height              : 28px;
+  width               : 28px;
+  position            : absolute;
+  margin              : 0;
+  left                : 978px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ubicompdp .group8 .oval {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 28px;
+  width               : 28px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ubicompdp .group8 .a2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 3px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 7px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 900;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : right;
+  letter-spacing      : -0.0px;
+  line-height         : 19.0px;
+}
+.ubicompdp .group81 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1394px;
+  height              : 28px;
+  width               : 28px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1133px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ubicompdp .group81 .oval {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 28px;
+  width               : 28px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ubicompdp .group81 .a2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 3px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 7px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 900;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : right;
+  letter-spacing      : -0.0px;
+  line-height         : 19.0px;
+}
+.ubicompdp .group6 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1366px;
+  height              : 28px;
+  width               : 28px;
+  position            : absolute;
+  margin              : 0;
+  left                : 978px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ubicompdp .group6 .oval {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 28px;
+  width               : 28px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ubicompdp .group6 .a3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 3px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 7px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 900;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : right;
+  letter-spacing      : -0.0px;
+  line-height         : 19.0px;
+}
+.ubicompdp .group61 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1242px;
+  height              : 28px;
+  width               : 28px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1147px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ubicompdp .group61 .oval {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 28px;
+  width               : 28px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ubicompdp .group61 .a3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 3px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 7px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 900;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : right;
+  letter-spacing      : -0.0px;
+  line-height         : 19.0px;
+}
+.ubicompdp .schermafbeelding20190305om173649 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1222px;
+  height              : 330px;
+  width               : 302px;
+  position            : absolute;
+  margin              : 0;
+  left                : 364px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ubicompdp .schermafbeelding20190305om173649 .schermafbeelding20190305om1736491 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 330px;
+  width               : 302px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ubicompdp .werkingiotdevice {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1129px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 364px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Open Sans", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.0px;
+  line-height         : 22.0px;
+}
+.ubicompdp .videovaniotdevice {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2077px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 364px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Open Sans", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.0px;
+  line-height         : 22.0px;
+}
+.ubicompdp .iotdevice1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1129px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 802px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Open Sans", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.0px;
+  line-height         : 22.0px;
+}
+.ubicompdp .gitaaraansluiten {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1193px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 404px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Open Sans", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.0px;
+  line-height         : 22.0px;
+}
+.ubicompdp .iotdevicedetecteer {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1611px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 403px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Open Sans", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.0px;
+  line-height         : 22.0px;
+}
+.ubicompdp .wanneerhetgeluidt {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1611px;
+  height              : auto;
+  width               : 271px;
+  position            : absolute;
+  margin              : 0;
+  left                : 875px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Open Sans", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.0px;
+  line-height         : 22.0px;
+}
+.ubicompdp .schermafbeelding20190305om174016 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1679px;
+  height              : 278px;
+  width               : 184px;
+  position            : absolute;
+  margin              : 0;
+  left                : 357px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ubicompdp .schermafbeelding20190305om174205 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1680px;
+  height              : 295px;
+  width               : 275px;
+  position            : absolute;
+  margin              : 0;
+  left                : 810px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ubicompdp .rectangle1 {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 2153px;
+  height              : 437px;
+  box-sizing          : border-box;
+  width               : 742px;
+  position            : absolute;
+  margin              : 0;
+  left                : 364px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(150, 150, 150, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ubicompdp .combinedshape2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 89px;
+  height              : 212px;
+  width               : 135px;
+  position            : absolute;
+  margin              : 0;
+  left                : 45px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ubicompdp .combinedshape2 .rectangle2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 212px;
+  width               : 135px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ubicompdp .combinedshape2 .combinedshape {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 3px;
+  height              : 195px;
+  width               : 114px;
+  position            : absolute;
+  margin              : 0;
+  left                : 12px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ubicompdp .group10 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1611px;
+  height              : 28px;
+  width               : 28px;
+  position            : absolute;
+  margin              : 0;
+  left                : 364px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ubicompdp .group10 .oval {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 28px;
+  width               : 28px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ubicompdp .group10 .a2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 3px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 7px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 900;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : right;
+  letter-spacing      : -0.0px;
+  line-height         : 19.0px;
+}
+.ubicompdp .group101 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1611px;
+  height              : 28px;
+  width               : 28px;
+  position            : absolute;
+  margin              : 0;
+  left                : 836px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ubicompdp .group101 .oval {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 28px;
+  width               : 28px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ubicompdp .group101 .a3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 3px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 7px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 900;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : right;
+  letter-spacing      : -0.0px;
+  line-height         : 19.0px;
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
